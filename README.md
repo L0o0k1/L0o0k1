@@ -9,7 +9,7 @@
 - **Contacts:** [**LinkedIn**](https://linkedin.com/in/ahm3dm4lik)
 - **Blog:** [**Medium**](https://l0ok.medium.com/)
 
-## 🛠️ Core Competencies
+## 🛠️ Core Skills
 
 #### 🎯 eCPPTv2 Subjects
 - **System Security**
