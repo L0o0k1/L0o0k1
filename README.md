@@ -9,16 +9,13 @@
 - **Contacts:** [**LinkedIn**](https://linkedin.com/in/ahm3dm4lik)
 - **Blog:** [**Medium**](https://l0ok.medium.com/)
 
-## 🛠️ Core Skills
+# 🛠️ Core Skills
 
-#### 🎯 eCPPTv2 Subjects
 - **System Security**
 - **Network Security & Penetration Testing Methodologies**
 - **PowerShell Fundamentals for Penetration Testers**
 - **Web Security & Testing Methodologies**
 - **Linux & Windows Exploitation Fundamentals**
-
-#### 🔍 eWPTXv2 Subjects
 - **OWASP Top 10**
 - **API Penetration Testing**
 - **Manually Web Penetrtion Testing**
