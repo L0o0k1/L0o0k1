@@ -25,7 +25,7 @@
 - **Bash**: Command-line scripting, system interaction, post-exploitation, managed and automated server configurations and deployments.
 - **JavaScript (Node.js)**: Building and deploying simple web applications to simulate attack vectors.
 
-### DevSecOps
+### DevOps
 - **CI/CD:** Jenkins, GitLab CI, CircleCI
 - **Infrastructure as Code:** Terraform, Ansible, Puppet
 - **Container Security:** Docker, Kubernetes, Helm
