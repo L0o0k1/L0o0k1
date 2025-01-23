@@ -22,8 +22,8 @@
 - **JavaScript (Node.js)**
 
 ### DevOps
-- **CI/CD:** Jenkins, GitLab CI
-- **Infrastructure as Code:** Terraform
-- **Container Security:** Docker, Kubernetes
-- **Cloud Security:** AWS, Azure
-- **Monitoring & Logging:** Grafana
+- **CI/CD:** Jenkins, GitLab CI.
+- **Infrastructure as Code:** Terraform.
+- **Container Security:** Docker, Kubernetes.
+- **Cloud Security:** AWS.
+- **Monitoring & Logging:** Grafana.
